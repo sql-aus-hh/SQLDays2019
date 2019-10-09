@@ -1,7 +1,7 @@
 # SQLDays2019
 ## Azure SQL Workshop
 
-1. **Hands-On Session**
+### 1. **Hands-On Session**
 
 - Azure Subscription einrichten
 - über das Portal eine neue SQL Server VM mit Windows 2019 und SQL Server 2017 Developer Edition ausrollen
@@ -15,5 +15,5 @@
     
 - Adventureworks 2016 herunterladen und restoren
 
-## Zusatzaufgabe:
+#### Zusatzaufgabe:
 - Datenplatte(n) gemäß Best-Practice (SQL&Azure) anhängen - zu erwartende maximale Datenbank-Gesamtgröße = 480GB
