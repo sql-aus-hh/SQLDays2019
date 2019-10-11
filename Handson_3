@@ -1,0 +1,12 @@
+# SQLDays2019
+### Azure SQL Workshop
+
+## 3. **Hands-On Session**
+
+- Database Migration Assistant auf dem SQL Server installieren
+- Assessment der vorhandenen SQL Server Datenbanken durchführen
+- Migration einer "on-premise" Datenbank nach Azure SQL Database mittels **SQL Server Management Studio** durchführen
+- Migration einer "on-premise" Datenbank nach Azure SQL Database mittels **Database Migration Assistant** durchführen
+
+- Azure Migration Service deployen
+- Migration einer "on-premise" Datenbank nach Azure SQL Database mittels **Database Migration Service** durchführen
