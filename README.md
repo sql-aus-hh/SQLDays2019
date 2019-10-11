@@ -13,7 +13,7 @@
     - Powershell
     - Azure CLI
     
-- alle Datenbanken herunterladen () und restoren
+- drei Datenbanken herunterladen (2012, 2016DW, 2017) und restoren
 
 #### Zusatzaufgabe:
 - Datenplatte(n) gemäß Best-Practice (SQL&Azure) anhängen - zu erwartende maximale Datenbank-Gesamtgröße = 480GB
