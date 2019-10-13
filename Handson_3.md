@@ -10,3 +10,6 @@
 
 - Azure Migration Service deployen
 - Migration einer "on-premise" Datenbank nach Azure SQL Database mittels **Database Migration Service** durchführen
+
+#### Zusatzaufgabe
+Einrichten einer Replikation zu einer Cloud-Datenbank.
