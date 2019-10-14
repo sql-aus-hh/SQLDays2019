@@ -6,7 +6,7 @@
 - eine Azure SQL Database Single DB als leere Datenbank deployen
 - eine Azure SQL Database mittels Restore erstellen
 - Azure SQL Database im Portal skalieren
-    - wielange dauert der Vortrag?
+    - wielange dauert der Vorgang?
     - Gibt es bestimmte Voraussetzungen um den Resize durchzuführen?
     - Was passiert bei einem Resize?
 
